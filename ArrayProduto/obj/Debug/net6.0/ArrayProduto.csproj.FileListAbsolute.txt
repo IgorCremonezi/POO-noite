@@ -1,0 +1,15 @@
+D:\POO noite\ArrayProduto\bin\Debug\net6.0\ArrayProduto.exe
+D:\POO noite\ArrayProduto\bin\Debug\net6.0\ArrayProduto.deps.json
+D:\POO noite\ArrayProduto\bin\Debug\net6.0\ArrayProduto.runtimeconfig.json
+D:\POO noite\ArrayProduto\bin\Debug\net6.0\ArrayProduto.dll
+D:\POO noite\ArrayProduto\bin\Debug\net6.0\ArrayProduto.pdb
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.csproj.AssemblyReference.cache
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.AssemblyInfoInputs.cache
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.AssemblyInfo.cs
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.csproj.CoreCompileInputs.cache
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.dll
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\refint\ArrayProduto.dll
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.pdb
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ArrayProduto.genruntimeconfig.cache
+D:\POO noite\ArrayProduto\obj\Debug\net6.0\ref\ArrayProduto.dll

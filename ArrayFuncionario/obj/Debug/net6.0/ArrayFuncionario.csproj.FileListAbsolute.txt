@@ -1,0 +1,15 @@
+L:\POO noite\ArrayFuncionario\bin\Debug\net6.0\ArrayFuncionario.exe
+L:\POO noite\ArrayFuncionario\bin\Debug\net6.0\ArrayFuncionario.deps.json
+L:\POO noite\ArrayFuncionario\bin\Debug\net6.0\ArrayFuncionario.runtimeconfig.json
+L:\POO noite\ArrayFuncionario\bin\Debug\net6.0\ArrayFuncionario.dll
+L:\POO noite\ArrayFuncionario\bin\Debug\net6.0\ArrayFuncionario.pdb
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.csproj.AssemblyReference.cache
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.AssemblyInfoInputs.cache
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.AssemblyInfo.cs
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.csproj.CoreCompileInputs.cache
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.dll
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\refint\ArrayFuncionario.dll
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.pdb
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ArrayFuncionario.genruntimeconfig.cache
+L:\POO noite\ArrayFuncionario\obj\Debug\net6.0\ref\ArrayFuncionario.dll
