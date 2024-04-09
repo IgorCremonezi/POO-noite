@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.exe
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.dll
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.pdb
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.dll
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\refint\ConstrutorAluno.dll
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.pdb
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-noite\ConstrutorAluno\obj\Debug\net6.0\ref\ConstrutorAluno.dll
