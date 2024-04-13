@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Downloads\\POO noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj": {}
+    "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Downloads\\POO noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj": {
+    "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\POO noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj",
         "projectName": "ComposicaoNotaFiscal",
-        "projectPath": "C:\\Users\\Aluno\\Downloads\\POO noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Downloads\\POO noite\\ComposicaoNotaFiscal\\obj\\",
+        "projectPath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\ComposicaoNotaFiscal\\ComposicaoNotaFiscal.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\ComposicaoNotaFiscal\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,16 +43,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

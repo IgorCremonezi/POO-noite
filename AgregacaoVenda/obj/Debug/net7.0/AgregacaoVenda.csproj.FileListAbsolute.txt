@@ -1,0 +1,14 @@
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.exe
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.deps.json
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.dll
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.pdb
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.dll
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\refint\AgregacaoVenda.dll
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.pdb
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\Igor\Documents\GitHub\POO-noite\AgregacaoVenda\obj\Debug\net7.0\ref\AgregacaoVenda.dll
