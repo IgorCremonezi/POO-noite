@@ -20,15 +20,30 @@ namespace ComposicaoBanco
             set { chequeEspecial = value; }
         }
 
-        public void Depositar(deposito)
+        public void Depositar(double deposito)
         {
             this.saldo += deposito;
         }
 
-        public void Sacar(saque)
+        public void Sacar(double saque)
         {
+            double diferenca = 0;
             if (saque > this.saldo)
-                
+            {
+                diferenca = saque - this.saldo;
+                if (diferenca <= this.chequeEspecial)
+                    this.saldo -= saque;
+                else
+                    System.Console.WriteLine("\nO valor do saque ultrapassa o limite do cheque especial da conta");
+            }
+            else
+                this.saldo -= saque;
+        }
+
+        public void GerarExtrato()
+        {
+            System.Console.WriteLine("\nSaldo da conta: " + this.saldo);
+            System.Console.WriteLine("\nCheque Especial da conta: " + this.chequeEspecial);
         }
     }
 }

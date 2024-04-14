@@ -1,0 +1,14 @@
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.exe
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.deps.json
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.runtimeconfig.json
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.dll
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.pdb
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.dll
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\refint\ComposicaoBanco.dll
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.pdb
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.genruntimeconfig.cache
+C:\Users\Igor\Documents\GitHub\POO-noite\ComposicaoBanco\obj\Debug\net7.0\ref\ComposicaoBanco.dll
