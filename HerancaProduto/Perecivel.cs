@@ -36,7 +36,7 @@ namespace HerancaProduto
         {
         }
 
-        public void MostrarAtributos()
+        public override void MostrarAtributos()
         {
             base.MostrarAtributos();
             System.Console.WriteLine("Data de fabricação do produto: " + DataFabricacao);

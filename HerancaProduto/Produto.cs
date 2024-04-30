@@ -36,7 +36,7 @@ namespace HerancaProduto
         {
         }
 
-        public void MostrarAtributos()
+        public virtual void MostrarAtributos()
         {
             System.Console.WriteLine("\nCódigo do produto: " + Codigo);
             System.Console.WriteLine("Nome do produto: " + Nome);
