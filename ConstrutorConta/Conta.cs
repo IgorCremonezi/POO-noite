@@ -8,7 +8,7 @@ namespace ConstrutorConta
     public class Conta
     {
         public int Numero { get; set; }
-        public string Titular { get; set; }
+        public string? Titular { get; set; }
         public double Saldo { get; set; }
         public bool Situacao { get; set; }
         public static int Contador { get; set; }

@@ -14,8 +14,8 @@ namespace ConstrutorAluno
             set { matricula = value; }
         }
         private static int contador;
-        private string nome;
-        public string Nome
+        private string? nome;
+        public string? Nome
         {
             get { return nome; }
             set

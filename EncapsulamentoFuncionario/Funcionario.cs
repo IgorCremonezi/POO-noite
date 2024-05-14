@@ -24,7 +24,7 @@ namespace EncapsulamentoFuncionario
                 }
             }
         }
-        public string Nome
+        public string? Nome
         {
             get { return nome; }
             set { nome = value; }

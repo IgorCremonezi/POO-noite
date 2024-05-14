@@ -7,8 +7,8 @@ namespace AgregacaoArrayConta
 {
     public class Cliente
     {
-        public string Nome { get; set; }
-        public string Rg { get; set; } 
+        public string? Nome { get; set; }
+        public string? Rg { get; set; } 
         public void Mostrar()
         {
             Console.WriteLine("Nome: " + Nome+

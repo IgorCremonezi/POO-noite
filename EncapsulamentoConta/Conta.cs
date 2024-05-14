@@ -21,7 +21,7 @@ namespace EncapsulamentoConta
             }
         }
         
-        private string Titular
+        public string? Titular
         {
             get { return titular; }
             set { titular = value; }

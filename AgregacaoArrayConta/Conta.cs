@@ -9,7 +9,7 @@ namespace AgregacaoArrayConta
     {
         public int Numero { get; set; }
         //Agregação
-        public List<Cliente> VetTitulares { get; set; }
+        public List<Cliente>? VetTitulares { get; set; }
         public double  Saldo { get; set; }
         public void Mostrar()
         {

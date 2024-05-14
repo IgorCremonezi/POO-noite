@@ -9,7 +9,7 @@ namespace AgregacaoConta
     {
         public int Numero { get; set; }
         //Agregação
-        public Cliente Titular { get; set; }
+        public Cliente? Titular { get; set; }
         public double  Saldo { get; set; }
     }
 }

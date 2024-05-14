@@ -9,7 +9,7 @@ namespace ClasseConta
     {
         //declaração dos atributos
         public int numero;
-        public string titular;
+        public string? titular;
         public double saldo;
         //declaração de métodos
         public void MostrarAtributos()
