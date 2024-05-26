@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZ+JjGG/i/Wm+mIXqIia5qX6CWusZt48FaDllRD/hGk4OKZZKBuR+S31vvPmcukOjrOnrDRPBblWT3xTl83vbA==",
+  "dgSpecHash": "M1V/PuduM9ys67XALnVR5x2ZLrEInNiSxdrQpbeUHiRvqH04xobcIv9PH9gxjEHaetYaQmZPAUko+lkLiTGoaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\ConstrutorConta\\ConstrutorConta.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

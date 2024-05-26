@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uMVBE2t9pvnl+CDLB/W0mt6xtkfTPjwyRNSoxfvYKvsiP1d2nr4etZpx5L3N0VO1fJHn9i4yE5TELBYouq11qA==",
+  "dgSpecHash": "ycmFcJHAJdrD4cT/oxqW0vMHlq0uXH2XdeSkpF3DSnD1+pCq+hpwowAFBl+s3fqdQIvjkK5+vX0RjmdNFXuWyQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\HerancaFuncionario\\HerancaFuncionario.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

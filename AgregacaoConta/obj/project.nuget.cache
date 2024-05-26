@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCANGnNoCKX7bz4JEUMoSgPLB3wB/K/eWkQxMvvXs43vfDdsDRG3uXIvdDSnpPJWmSOeV5Fmde+5ZMefFoMTWw==",
+  "dgSpecHash": "+6JAmwkjEKxwobVfDH++k7cP8f/rN2iCzQcR3/zPOwVTO0A79MrVnJI6v72W8RRYnhP39IlsT5zPeHHtKJGLoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\AgregacaoConta\\AgregacaoConta.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

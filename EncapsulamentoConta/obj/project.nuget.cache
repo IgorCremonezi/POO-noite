@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nAZ4pJETDELcJ/DVY13bw7A8wS4uagZEESUuMhZz/JUCaB3EqtzXEafssp6Ao07+2Xm2L06pJRcbD3GeyoixTg==",
+  "dgSpecHash": "pGur+QxLKOC/a7WQaZ5U0YytCnfZ6KTF5fm//RKVegLVm5tYk/XbKZiZdLLFAhYLbnnCgvWPcbxwsm+KcHY7uA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VvmWBvj/NaMw2ecFEusAE4D3BvlWlHv20gXH6mI3TQliwJkd4myrxw3+IDHcL+Kp2UQIj+jjnTsfp/MwTQ+kXg==",
+  "dgSpecHash": "2f6MQuaPu7ECt5i9vGrhXwO3KV0ir+hZYBeawoq1Nd8RRX6M6u75nzc7uddQUyTQDHR2eCSGrH0E2qAEmQHYaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\Revisao\\Revisao.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

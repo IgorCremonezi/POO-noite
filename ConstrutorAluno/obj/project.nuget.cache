@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TlDHUK8K5yNpzbvCOn/0YweDO/vAu7MRI77Q5oEXLwefRtopy34Ez1OnHIk8vkFM25UC6P3ZZ1ROVQ5N9FIDcg==",
+  "dgSpecHash": "Db9lik7e5YLFhgXp2uXOr1eZuX9oTkM5ZNNlt1AdCutLfhqGhtGTQPadVOopzMiqizEuWyM/TQ/6vNzGOVzUjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\ConstrutorAluno\\ConstrutorAluno.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

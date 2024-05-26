@@ -15,6 +15,7 @@ namespace AbstratoFuncionario
         {
             Codigo = codigo;
             Nome = nome;
+            VetF = new List<Funcionario>();
         }
 
         public void Admitir(Funcionario funcionario)
@@ -50,6 +51,17 @@ namespace AbstratoFuncionario
                 folha += funcionario.CalcularSalario(diasUteis);
             }
             return folha;
+        }
+
+        public void MostrarDependentesDepartamento()
+        {
+            int quantidadeDependentes = 0;
+            foreach (Funcionario f in VetF)
+            {
+                quantidadeDependentes += f.TotalDependentes();
+            }
+
+            System.Console.WriteLine("\nHá " + quantidadeDependentes + " dependentes no departamento " + Nome);
         }
     }
 }

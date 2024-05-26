@@ -12,3 +12,4 @@ C:\Users\Igor\Documents\GitHub\POO-noite\HerancaFuncionario\obj\Debug\net6.0\ref
 C:\Users\Igor\Documents\GitHub\POO-noite\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.pdb
 C:\Users\Igor\Documents\GitHub\POO-noite\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\POO-noite\HerancaFuncionario\obj\Debug\net6.0\ref\HerancaFuncionario.dll
+C:\Users\Igor\Documents\GitHub\POO-noite\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.csproj.AssemblyReference.cache
