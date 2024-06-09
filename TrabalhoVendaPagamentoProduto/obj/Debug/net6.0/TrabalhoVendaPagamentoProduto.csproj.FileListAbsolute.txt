@@ -1,0 +1,15 @@
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\bin\Debug\net6.0\TrabalhoVendaPagamentoProduto.exe
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\bin\Debug\net6.0\TrabalhoVendaPagamentoProduto.deps.json
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\bin\Debug\net6.0\TrabalhoVendaPagamentoProduto.runtimeconfig.json
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\bin\Debug\net6.0\TrabalhoVendaPagamentoProduto.dll
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\bin\Debug\net6.0\TrabalhoVendaPagamentoProduto.pdb
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.dll
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\refint\TrabalhoVendaPagamentoProduto.dll
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.pdb
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\TrabalhoVendaPagamentoProduto.genruntimeconfig.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\TrabalhoVendaPagamentoProduto\obj\Debug\net6.0\ref\TrabalhoVendaPagamentoProduto.dll
