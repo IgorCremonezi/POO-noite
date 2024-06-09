@@ -13,3 +13,18 @@ C:\Users\Aluno\Documents\GitHub\POO-noite\InterfaceTributavel\obj\Debug\net6.0\r
 C:\Users\Aluno\Documents\GitHub\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.pdb
 C:\Users\Aluno\Documents\GitHub\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.genruntimeconfig.cache
 C:\Users\Aluno\Documents\GitHub\POO-noite\InterfaceTributavel\obj\Debug\net6.0\ref\InterfaceTributavel.dll
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.exe
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.deps.json
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.runtimeconfig.json
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.dll
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\bin\Debug\net6.0\InterfaceTributavel.pdb
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.dll
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\refint\InterfaceTributavel.dll
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.pdb
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\InterfaceTributavel.genruntimeconfig.cache
+C:\Users\amand\OneDrive - Etec Centro Paula Souza\Documents\Github\POO-noite\InterfaceTributavel\obj\Debug\net6.0\ref\InterfaceTributavel.dll

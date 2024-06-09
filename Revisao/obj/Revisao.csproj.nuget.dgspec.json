@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\Revisao\\Revisao.csproj": {}
+    "C:\\Users\\amand\\OneDrive - Etec Centro Paula Souza\\Documents\\Github\\POO-noite\\Revisao\\Revisao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\Revisao\\Revisao.csproj": {
+    "C:\\Users\\amand\\OneDrive - Etec Centro Paula Souza\\Documents\\Github\\POO-noite\\Revisao\\Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "C:\\Users\\amand\\OneDrive - Etec Centro Paula Souza\\Documents\\Github\\POO-noite\\Revisao\\Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\Revisao\\Revisao.csproj",
-        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igor\\Documents\\GitHub\\POO-noite\\Revisao\\obj\\",
+        "projectPath": "C:\\Users\\amand\\OneDrive - Etec Centro Paula Souza\\Documents\\Github\\POO-noite\\Revisao\\Revisao.csproj",
+        "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amand\\OneDrive - Etec Centro Paula Souza\\Documents\\Github\\POO-noite\\Revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\amand\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.421\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
         }
       }
     }
